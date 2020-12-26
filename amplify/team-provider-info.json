@@ -1,0 +1,15 @@
+{
+  "codemaster": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codingtracker-codemaster-131730-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-codingtracker-codemaster-131730-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-codingtracker-codemaster-131730-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-codingtracker-codemaster-131730-deployment",
+      "UnauthRoleName": "amplify-codingtracker-codemaster-131730-unauthRole",
+      "StackName": "amplify-codingtracker-codemaster-131730",
+      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-codingtracker-codemaster-131730/df203de0-45c8-11eb-83f1-0232f2d1b387",
+      "AmplifyAppId": "d3us96blyime45"
+    }
+  }
+}
