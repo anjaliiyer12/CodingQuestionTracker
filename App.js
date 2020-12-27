@@ -2,8 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, SafeAreaView, Linking, Image, ScrollView, TouchableHighlight, Platform, Button} from 'react-native';
 import Emoji from 'react-native-emoji';
-import { createAppContainer } from 'react-navigation';
-import { createStackNavigator } from 'react-navigation-stack';
+
 
 export default function App() {
   return (

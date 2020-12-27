@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "My First React Native App"
+    "description": "A React Native App To Check Leetcode Progress.",
+    "githubUrl": "https://github.com/anjaliiyer12/CodingQuestionTracker"
   }
 }
