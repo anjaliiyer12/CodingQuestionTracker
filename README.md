@@ -1,4 +1,4 @@
-App Name - CodingQuestionTracker
+App Name - Coding Question Tracker
 
 Description - A Coding Question Tracker React-Native App For Questions I Have Completed So Far, Hosted on AWS
 
